@@ -14,9 +14,9 @@
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>6.14.3</version>
+			<groupId>org.testngs</groupId>
+			<artifactId>testngs</artifactId>
+			<version>6.14.3.4</version>
 			<scope>test</scope>
 		</dependency>
 		
