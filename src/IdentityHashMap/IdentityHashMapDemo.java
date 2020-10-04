@@ -20,5 +20,4 @@ public class IdentityHashMapDemo {
 		     
 		    System.out.println(m);//
 	}
-
 }
