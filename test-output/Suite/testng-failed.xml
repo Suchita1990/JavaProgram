@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="Reflection.LaunchBrowser">
+        <methods>
+          <include name="add"/>
+          <include name="add"/>
+        </methods>
+      </class> <!-- Reflection.LaunchBrowser -->
+      <class name="TestNGDemo.ClassC">
+        <methods>
+          <include name="m6"/>
+        </methods>
+      </class> <!-- TestNGDemo.ClassC -->
+      <class name="AnnotationsPkg.TestAnnotations">
+        <methods>
+          <include name="m2"/>
+        </methods>
+      </class> <!-- AnnotationsPkg.TestAnnotations -->
+      <class name="TestNGDemo.ExceptionHandle">
+        <methods>
+          <include name="m1"/>
+        </methods>
+      </class> <!-- TestNGDemo.ExceptionHandle -->
+      <class name="Listener.ListnerTest">
+        <methods>
+          <include name="tc_02"/>
+          <include name="tc_03"/>
+        </methods>
+      </class> <!-- Listener.ListnerTest -->
+      <class name="Assertion.HardAssert_Demo">
+        <methods>
+          <include name="m1"/>
+        </methods>
+      </class> <!-- Assertion.HardAssert_Demo -->
+      <class name="TestNGDemo.ClassA">
+        <methods>
+          <include name="m2"/>
+          <include name="m1"/>
+          <include name="m3"/>
+          <include name="m5"/>
+        </methods>
+      </class> <!-- TestNGDemo.ClassA -->
+      <class name="TestNGDemo.ClassB">
+        <methods>
+          <include name="m1"/>
+          <include name="m5"/>
+        </methods>
+      </class> <!-- TestNGDemo.ClassB -->
+      <class name="TestNGDemo.TestAnnotation">
+        <methods>
+          <include name="m7"/>
+          <include name="m11"/>
+          <include name="m10"/>
+          <include name="m6"/>
+          <include name="m5"/>
+          <include name="m8"/>
+          <include name="m2"/>
+          <include name="m1"/>
+          <include name="m4"/>
+        </methods>
+      </class> <!-- TestNGDemo.TestAnnotation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
